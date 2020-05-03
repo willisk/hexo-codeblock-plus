@@ -1,0 +1,26 @@
+{
+  "name": "hexo-codeblock-plus",
+  "version": "1.0.0",
+  "description": "extended syntax for diff highlighting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "./"
+  },
+  "keywords": [
+    "hexo",
+    "syntax",
+    "diff",
+    "highlighting"
+  ],
+  "author": "Kurt Willis",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "hexo-util": "^1.9.0",
+    "strip-indent": "^3.0.0"
+  }
+}
